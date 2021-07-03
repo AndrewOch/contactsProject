@@ -5,7 +5,7 @@
 //  Created by itisioslab on 02.07.2021.
 //
 
-import UIKit
+import UIKit 
 
 class ContactTableViewCell: UITableViewCell {
 

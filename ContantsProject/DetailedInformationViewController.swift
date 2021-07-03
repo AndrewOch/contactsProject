@@ -4,7 +4,7 @@
 //
 //  Created by itisioslab on 02.07.2021.
 //
-
+ 
 import UIKit
 
 class DetailedInformationViewController: UIViewController {

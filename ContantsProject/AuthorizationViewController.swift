@@ -21,6 +21,7 @@ class AuthorizationViewController: UIViewController {
         super.viewDidLoad()
         
         
+        
     }
     
     let rigthUsername = "admin"
